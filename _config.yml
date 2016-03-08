@@ -1,0 +1,28 @@
+name: suneslisk
+favicon: null
+layout_spectrum: 0.8078502311836928
+typography_spectrum: 0.9828422544524074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5484108363743871
+  lightness: 0.20329693402163684
+  saturation: 0.9230984766036272
+  rhythmicContrast: 0.7844655790831894
+purpose: []
