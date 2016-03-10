@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T00:40:43.894Z'
-dateModified: '2016-03-09T00:40:24.656Z'
+datePublished: '2016-03-10T11:11:01.724Z'
+dateModified: '2016-03-10T11:11:01.205Z'
 title: "Tim Cook expects 'massive change' in the auto industry"
 author: []
+sourcePath: _posts/2016-03-09-tim-cook-expects-massive-change-in-the-auto-industry.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-tim-cook-expects-massive-change-in-the-auto-industry.md
-published: true
 url: tim-cook-expects-massive-change-in-the-auto-industry/index.html
 _type: Article
 
