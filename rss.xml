@@ -4,8 +4,15 @@
         <description><![CDATA[Inspired]]></description>
         <link>https://thegrid.ai/suneslisk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 12:28:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 12:42:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/suneslisk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get started with VR: user experience design]]></title>
+            <description><![CDATA[<article><h1>Get started with VR: user experience design</h1><p>User experience in VR is already a very broad topic. If you're just getting started with virtual reality, you'll quickly realize that we're all standing on the tip of an iceberg, with a lot of undiscovered VR interactions and experiences laying unexplored beneath the surface.</p><img src="http://www.roadtovr.com/wp-content/uploads/2015/06/valve-vive-lighthouse-boundaries.jpg"></article>]]></description>
+            <link>http://www.vrinflux.com/the-basics-of-virtual-reality-ux/</link>
+            <guid isPermaLink="false">42977811-3e51-4039-a4c0-1b838b9a7b5f</guid>
+            <pubDate>Thu, 10 Mar 2016 12:40:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook is eating the world]]></title>
             <description><![CDATA[<article><h1>Facebook is eating the world</h1><p>Something really dramatic is happening to our media landscape, the public sphere, and our journalism industry, almost without us noticing and certainly without the level of public examination and debate it deserves. Our news ecosystem has changed more dramatically in the past five years than perhaps at any time in the past five hundred.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08807b4743d4b9711f16f6433a91f6b64e19f918.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/suneslisk/samsungchefer-mjukvara-nyckel-till-mobil-framgang/index.html</link>
             <guid isPermaLink="false">54d6458e-37f0-4a90-980d-90a7be986e65</guid>
             <pubDate>Thu, 10 Mar 2016 11:10:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1a501ba-c339-47ee-ac61-64545e1a9b2e.png">]]></description>
-            <link>https://thegrid.ai/suneslisk/oculus-rift-is-too-expensive/index.html</link>
-            <guid isPermaLink="false">9805e0b8-4921-408b-9534-f6d5f6112a55</guid>
-            <pubDate>Wed, 09 Mar 2016 00:56:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
