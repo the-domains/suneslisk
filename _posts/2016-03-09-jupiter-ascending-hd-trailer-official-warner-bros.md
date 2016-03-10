@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'ARRIVES ONTO BLU-RAY 3D, BLU-RAY & DVD ON JUNE 29 OWN IT FIRST ON DIGITAL HD JUNE 15 #Jupiter - Like the official Facebook page for Jupiter Ascending updates https://www.facebook.com/JupiterMovieUK Follow us on Twitter at @JupiterMovieUK The Brand New Official Trailer for Jupiter Channing Tatum and Mila Kunis star in "Jupiter Ascending," an original science fiction epic adventure from filmmakers Lana and Andy Wachowski (The Matrix).'
-datePublished: '2016-03-10T11:10:08.009Z'
-dateModified: '2016-03-10T11:09:53.682Z'
+datePublished: '2016-03-10T11:14:52.627Z'
+dateModified: '2016-03-10T11:10:16.157Z'
 author:
   - name: Warner Bros. UK
     url: 'https://www.youtube.com/user/warnerbrosuktrailers'
