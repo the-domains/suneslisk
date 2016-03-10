@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T00:49:21.935Z'
-dateModified: '2016-03-09T00:48:48.237Z'
+datePublished: '2016-03-10T11:27:03.711Z'
+dateModified: '2016-03-10T11:27:03.253Z'
 title: Jeremy Clarkson hjälper Amazon demonstrera drönare
 author: []
 sourcePath: _posts/2016-03-09-jeremy-clarkson-hjalper-amazon-demonstrera-dronare.md
