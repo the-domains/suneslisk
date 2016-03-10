@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T00:27:34.810Z'
-dateModified: '2016-03-09T00:27:23.120Z'
+datePublished: '2016-03-10T11:10:42.646Z'
+dateModified: '2016-03-10T11:10:42.203Z'
 title: 'Samsungchefer: Mjukvara nyckel till mobil framgång'
 author: []
+sourcePath: _posts/2016-03-09-samsungchefer-mjukvara-nyckel-till-mobil-framgang.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-samsungchefer-mjukvara-nyckel-till-mobil-framgang.md
-published: true
 url: samsungchefer-mjukvara-nyckel-till-mobil-framgang/index.html
 _type: Article
 
