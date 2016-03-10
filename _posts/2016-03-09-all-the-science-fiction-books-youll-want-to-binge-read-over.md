@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: All the science fiction books you’ll want to binge read over the holidays
-datePublished: '2016-03-09T00:32:00.568Z'
-dateModified: '2016-03-09T00:31:56.708Z'
+datePublished: '2016-03-10T11:27:24.981Z'
+dateModified: '2016-03-10T11:27:24.482Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-09-all-the-science-fiction-books-youll-want-to-binge-read-over.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-09-all-the-science-fiction-books-youll-want-to-binge-read-over.md
-published: true
 url: all-the-science-fiction-books-youll-want-to-binge-read-over/index.html
 _type: Article
 
