@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Inspired]]></title>
-        <description><![CDATA[Inspired]]></description>
+        <title><![CDATA[Inspired by Sune Slisk]]></title>
+        <description><![CDATA[Inspired by Sune Slisk]]></description>
         <link>https://thegrid.ai/suneslisk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 16:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2016 09:03:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/suneslisk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nu kommer Uber X till Malmö.]]></title>
+            <description><![CDATA[<article><h1>Nu kommer Uber X till Malmö.</h1><p>Efter Stockholm och Göteborg börjar Uber erbjuda sina tjänster i Malmö. Men taxibolaget avvaktar med den kontroversiella tjänsten Uber Pop. Uber har funnits i Stockholm sedan 2013 och i Göteborg sedan slutet av förra året. Nu tar det lika snabbväxande som kontroversiella bolaget nästa steg i Sverige och expanderar till Malmö.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fafca63703a7a5967c634612bef45e5335a04c2e.jpg"></article>]]></description>
+            <link>http://digital.di.se/artikel/nu-kommer-uber-x-till-malmo</link>
+            <guid isPermaLink="false">5badd75e-58f2-46f6-b28d-7c7bf27a73ee</guid>
+            <pubDate>Sun, 27 Mar 2016 09:02:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jeff Bezos says he wants to fly into space "as soon as possible"]]></title>
             <description><![CDATA[<article><h1>Jeff Bezos says he wants to fly into space "as soon as possible"</h1><p>The thickly coiffed Sy Sperling gained a measure of fame as the founder of the Hair Club for Men in the 1980s and 1990s with commercials that reminded viewers he wasn't just the president of the company, he was "also a client." For Jeff Bezos, it's much the same.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71a8cd547d924707065c36cece39485aa078b17f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/suneslisk/all-the-science-fiction-books-youll-want-to-binge-read-over/index.html</link>
             <guid isPermaLink="false">8913c209-32d6-4d76-9e35-ff6743b7c881</guid>
             <pubDate>Thu, 10 Mar 2016 11:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Samsungchefer: Mjukvara nyckel till mobil framgång]]></title>
-            <description><![CDATA[<article><h1>Samsungchefer: Mjukvara nyckel till mobil framgång</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60c326f3bbf61953021fd07c6f5c53277727c5d8.png"></article>]]></description>
-            <link>https://thegrid.ai/suneslisk/samsungchefer-mjukvara-nyckel-till-mobil-framgang/index.html</link>
-            <guid isPermaLink="false">54d6458e-37f0-4a90-980d-90a7be986e65</guid>
-            <pubDate>Thu, 10 Mar 2016 11:10:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
