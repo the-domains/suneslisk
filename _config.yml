@@ -1,29 +1,41 @@
-name: Inspired by Zune Zlisk
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.24218
-title: Inspired by Zune Zlisk
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0
+title: Inspired by Zune Zlisk
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.9230984766036272
+  brandStrength: 0.5
+  rhythmicContrast: 0.7844655790831894
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.5
-  lightness: 0.20329693402163684
-  saturation: 0.9230984766036272
-  rhythmicContrast: 0.7844655790831894
+  lightness: 0.2032969340216368
 purpose: []
+favicon: null
+name: Inspired by Zune Zlisk
+typography_spectrum: 0.24218
